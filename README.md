@@ -1,6 +1,7 @@
 # hello
 
 A new Flutter project.
+author: MinhCuongIT
 
 ## Getting Started
 
